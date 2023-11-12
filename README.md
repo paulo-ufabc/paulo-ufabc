@@ -59,7 +59,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=white)
 ![Datadog](https://img.shields.io/badge/-datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
