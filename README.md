@@ -1,4 +1,4 @@
-## Hey 👋, I'm Paulo Jose!  
+## Bem vindo ao meu perfil, Eu sou Paulo Jose!  
   
 
 <a href="https://github.com/paulo-ufabc" target="_blank">
