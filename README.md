@@ -8,7 +8,7 @@
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
-### !  
+### 
 Desenvolvedor full Stack Java, PHP e JavaScript e frameworks como Laravel, Java Spring e JavaScript com mais de três anos de experiência, com experiência em arquiteturas em nuvem, devOps e sempre aplicando TDD.
 
 Como líder em um projeto anterior, destaco a minha habilidade em realizar transformações significativas. Reescrevi serviços em Java Spring e DynamoDB, otimizando a arquitetura para atender às demandas da nuvem, resultando em melhorias de desempenho e segurança. Automatizei o Docker Compose para garantir escalabilidade e reduzir drasticamente os tempos de implantação.
