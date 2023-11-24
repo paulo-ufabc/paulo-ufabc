@@ -8,36 +8,12 @@
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
-### Glad to see you here!  
+### !  
 Desenvolvedor full Stack Java, PHP e JavaScript e frameworks como Laravel, Java Spring e JavaScript com mais de três anos de experiência, com experiência em arquiteturas em nuvem, devOps e sempre aplicando TDD.
 
 Como líder em um projeto anterior, destaco a minha habilidade em realizar transformações significativas. Reescrevi serviços em Java Spring e DynamoDB, otimizando a arquitetura para atender às demandas da nuvem, resultando em melhorias de desempenho e segurança. Automatizei o Docker Compose para garantir escalabilidade e reduzir drasticamente os tempos de implantação.
 
 Cursando Ciências da Computação na Universidade Federal do ABC. 
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-- <div align="center">🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)</div>  
-  
-
-- <div align="center">🌱 I’m currently learning Hyperledger and Kubernetes</div>  
-  
-
-- <div align="center">❓ Ask me about anything related to MERN stack and related technologies</div>  
-  
-
-- <div align="center">⚡ Fun fact: I keep night shift swithed on at all times </div>  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
