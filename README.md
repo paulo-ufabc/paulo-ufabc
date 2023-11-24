@@ -40,14 +40,4 @@ Cursando Ciências da Computação na Universidade Federal do ABC.
 ![RabbitMQ](https://img.shields.io/badge/-Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white&logoColor=white)
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=paulo-ufabc&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-ufabc&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+  
